@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors appoinment",
+      "day": "Feb 5th at 3:30 PM",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Soccer game",
+      "day": "Feb 19th at 10:00 AM",
+      "reminder": true
+    },
+    {
+      "text": "Take the garbage out",
+      "day": "Every two days",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
